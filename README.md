@@ -10,11 +10,12 @@ A simple, responsive **To-Do List application** built using **HTML**, **CSS**, a
 - 🧹 Clear all tasks
 - 💾 Persistent storage via **Local Storage**
 - 🎨 Clean and responsive design
-
+- 🌙 Toggle to Light Mode or Dark Mode
+- 
 ## 📁 File Structure
 
 ├── index.html → HTML structure
-├── style.css → CSS styling
+├── style.css → CSS styling( used inside html file)
 ├── script.js → JavaScript logic
 
 markdown
